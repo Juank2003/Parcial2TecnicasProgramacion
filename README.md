@@ -40,4 +40,5 @@ La programación orientada a objetos permite crear código modular y reutilizabl
 ## Ejercicio 3
 
 ### ¿Qué es la visibilidad de una variable o un método? ¿Qué tipos hay? ¿Cuándo debe utilizarse cada tipo?
+
 La visibilidad de una variable o método determina su alcance en el programa y puede ser public, protected o private. Se recomienda utilizar la visibilidad más restrictiva posible para proteger la integridad y la coherencia de los datos, utilizando private para los atributos y métodos que no necesiten ser accedidos desde fuera de la clase, y public para los que sí necesiten ser accedidos. Los atributos y métodos protegidos se utilizan en casos específicos, como cuando se desea permitir el acceso a los métodos y atributos de la clase padre desde las clases hijas.
