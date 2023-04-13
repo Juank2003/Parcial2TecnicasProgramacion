@@ -27,7 +27,7 @@ public class Ship {
                 this.direction = CardinalPoints.EAST;
             }
         } else {
-            throw new Exception("Invalid Ship coordinates: must be a straight line.");
+            throw new Exception("Coordenadas de barco no válidas: debe ser una línea recta.");
         }
 
         this.hits = new HashSet<>();
