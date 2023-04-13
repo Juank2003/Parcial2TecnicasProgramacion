@@ -6,7 +6,7 @@ public class Ship {
     private Point endPoint;
     private int size;
     private CardinalPoints direction;
-    private HashSet<Point> hits;
+    HashSet<Point> hits;
 
     public Ship(Point startPoint, Point endPoint) throws Exception {
         this.startPoint = startPoint;

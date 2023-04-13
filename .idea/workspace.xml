@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69cd58c5-a2cd-429b-b493-5a977f86a1bc" name="Changes" comment="ClaseUser">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+    <list default="true" id="69cd58c5-a2cd-429b-b493-5a977f86a1bc" name="Changes" comment="ClaseUserCodigo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Battleship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681400325022</updated>
-      <workItem from="1681400326731" duration="1758000" />
+      <workItem from="1681400326731" duration="2624000" />
     </task>
     <task id="LOCAL-00001" summary="ClaseEnumCardinalPoints">
       <created>1681401812172</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681402505285</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ClaseUserCodigo">
+      <created>1681402779410</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681402779410</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,7 @@
     <MESSAGE value="ClaseShip" />
     <MESSAGE value="ClaseShipCodigo" />
     <MESSAGE value="ClaseUser" />
-    <option name="LAST_COMMIT_MESSAGE" value="ClaseUser" />
+    <MESSAGE value="ClaseUserCodigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ClaseUserCodigo" />
   </component>
 </project>
